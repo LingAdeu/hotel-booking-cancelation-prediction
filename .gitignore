@@ -3,3 +3,4 @@ docs/.DS_Store
 notebook/.DS_Store
 notebook/.ipynb_checkpoints/notebook-checkpoint.ipynb
 *.logs
+notebook/logs.log
