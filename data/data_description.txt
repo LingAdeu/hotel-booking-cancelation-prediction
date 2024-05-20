@@ -1,0 +1,18 @@
+Hotel Booking Demand
+Context
+This data set contains booking information for a hotel located in Portugal, and includes information regarding room reservation for respective customers.
+All personally identifying information has been removed from the data.
+Features
+-	country: Country of origin.
+-	market_segment: Market segment designation. 
+-	previous_cancellations: Number of previous bookings that were cancelled by the customer prior to the current booking.
+-	booking_changes: Number of changes/amendments made to the booking from the moment the booking was entered on the PMS until the moment of check-in or cancellation.
+-	deposit_type: Indication on if the customer made a deposit to guarantee the booking. 
+-	days_in_waiting_list: Number of days the booking was in the waiting list before it was confirmed to the customer.
+-	customer_type: Type of booking.
+-	reserved_room_type: Code of room type reserved. Code is presented instead of designation for anonymity reasons.
+-	required_car_parking_space: Number of car parking spaces required by the customer.
+-	total_of_special_request: Number of special requests made by the customer (e.g. twin bed or high floor).
+-	is_canceled: Value indicating if the booking was canceled (1) or not (0).
+
+
