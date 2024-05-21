@@ -1,4 +1,5 @@
 Hotel Booking Demand
+
 Context
 This data set contains booking information for a hotel located in Portugal, and includes information regarding room reservation for respective customers.
 All personally identifying information has been removed from the data.
