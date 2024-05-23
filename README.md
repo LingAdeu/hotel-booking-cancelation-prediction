@@ -1,4 +1,4 @@
-(Header)
+![header](header.png)
 
 # Predicting Hotel Booking Cancellations to Minimize Revenue Loss due to False Negative
 
@@ -22,7 +22,7 @@ Model Training and Evaluation: Train various classification models and evaluate 
 Model Selection: Select the model with the best F2 score for predicting booking cancellations.
 
 ## Results
-The project achieved an F2 score of 0.71 using a Gaussian Naive Bayes model.
+The project achieved an F2 score of 0.72 using a Gaussian Naive Bayes model.
 
 Additional Information:
 
