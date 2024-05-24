@@ -10,7 +10,7 @@ Develop a classification model to predict hotel booking cancellations.
 Prioritize minimizing false negatives (missed cancellations) due to their higher cost compared to false positives.
 
 ## Data
-This project utilizes a dataset containing booking information from a Portuguese hotel. 
+This project utilizes a dataset containing booking information from a Portuguese hotel. The dataset can be accessed [here](https://github.com/LingAdeu/hotel-booking-cancelation-prediction/blob/main/data/dataset.csv)
 
 ## Methods
 The project uses a classification approach to predict booking cancellations. The focus is on minimizing False Negative Rate (FNR) due to its higher cost implication compared to False Positive Rate (FPR).
