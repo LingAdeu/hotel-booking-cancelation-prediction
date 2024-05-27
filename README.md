@@ -19,7 +19,7 @@ To replicate my analysis or explore the data further, kindly follow the followin
 git clone https://github.com/LingAdeu/hotel-booking-cancelation-prediction.git
 ```
 2. Ensure that all necessary dependencies are installed, especially Python and Jupyter Notebook. All libraries are specified on file requirements.txt.
-3. Run my Jupyter Notebook file (`*.ipynb`) in [notebook](https://github.com/LingAdeu/hotel-booking-cancelation-prediction/tree/main/notebook) folder to reproduce the analysis. This notebook contains the detailed implementation of data preprocessing, model training, and evaluation. Alternatively, kindly check this Jupyter Notebook Viewer URL to see the notebook.
+3. Run my Jupyter Notebook file (`*.ipynb`) in [notebook](https://github.com/LingAdeu/hotel-booking-cancelation-prediction/tree/main/notebook) folder to reproduce the analysis. This notebook contains the detailed implementation of data preprocessing, model training, and evaluation. Alternatively, kindly check this Jupyter Notebook Viewer [URL](https://nbviewer.org/github/LingAdeu/hotel-booking-cancelation-prediction/blob/main/notebook/notebook.ipynb) to see the notebook.
 
 ## Folder Organization
 
